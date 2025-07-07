@@ -10,22 +10,36 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+Good Visualization Example
+Title: Worldwide Covid Vaccine Response
+Author: Morag Deans | Source: Tableau Public
+ 1. The dashboard uses a dual-axis line chart to track both weekly COVID cases and vaccinations which is great for presenting trends and relationships over time. It also has interactvity which enables exploratory analysis consistent with emphasis on communicative power concept.
+ 2. Axes are clearly labeled with dates and numeric counts. The daul axis is well implemented where identical sclesused to eliminate confusion.
+ 3. Uses solid lines and gridlines effectively without distraction
+ 4. Uses two contrasting colors to distinguish cases and vacinnations to maintain clarity and readability
+ 5. The dashboard has the last update date which support reproducibility. The dataset can be downloaded and the source is cited, so the viz is reproducible.
 
-
-
-
-
+Bad Vizualization example
+Title: Good and Bad Sale showing profit
+Author: Aseef Ahmed | Source: Tableau Public
+1. Pie charts are not good to show nuanced comparison/show small differences.
+2. It has many slices of similar size impede comparison, so the design conflicts with perpetual accuracy principles.
+3. The chart missing labels and scales, so it is hard for viewers to intepret data meaningfully.
+4. No mention of data origin or update frequency, so it is not reproducible example
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+How the good viz could be improved:
+1. Annotations can be added to highlight key events.
+2. Improve accessibility by adding alt-text and colorblind palettes
 
-
-
-
+How the bad viz could be improved:
+1. Replace a pie chart with a bar chart to create accurate visual perception
+2. Group small clices into "Other" group to simplify visuals
+3. Add axis labels for values
+4. Provide timeline and source to increase validity
 
 
       
